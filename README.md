@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**suraj9060/suraj9060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Enthusiastic, team- oriented and fast learning software engineer with a proficiency in HTML, CSS, JavaScript, React and Bootstrap seeking employment in an organization to provide valuable support.
 
 Here are some ideas to get you started:
 
