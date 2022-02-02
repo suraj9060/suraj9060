@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj9060" alt="suraj9060" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
-
-- 📫 How to reach me **surajpandit831996@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
