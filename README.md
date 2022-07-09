@@ -34,8 +34,17 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Suraj9060/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Suraj9060&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<p align="center">
+    <a href="https://github.com/Suraj9060/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj9060&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj9060&show_icons=true&locale=en&layout=compact" alt="suraj9060" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj9060&show_icons=true&locale=en" alt="suraj9060" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj9060&" alt="suraj9060" /></p>
+
+
+
+
