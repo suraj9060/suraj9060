@@ -40,9 +40,17 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj9060&show_icons=true&locale=en&layout=compact" alt="suraj9060" /></p>
+## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj9060&show_icons=true&locale=en" alt="suraj9060" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Suraj9060/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suraj9060&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <p align="center">
+  <a href="https://github.com/Suraj9060/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj9060&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
 
 
 
