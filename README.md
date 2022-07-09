@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj9060" alt="suraj9060" /></a> </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/suraj9060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj9060" height="30" width="40" /></a>
-<a href="https://fb.com/suraj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj kumar" height="30" width="40" /></a>
-</p>
-
+<br />
+<h2 align="center"> 
 ## 🚀 Languages and Tools:
-
-<p align="left"> 
+</h2>
+<p align="center"> 
     <a href="" target="_blank">  </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a target="_blank"></a> 
@@ -56,8 +52,10 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj9060&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
+<br />
+<h2 align="center"> 
+ 📊 My Github Stats
+    </h2>
 
   <br/>
   <p align="center">
